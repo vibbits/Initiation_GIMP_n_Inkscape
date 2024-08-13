@@ -123,7 +123,7 @@ Source file: [Image 1](../data/exercise1.tif)
 Task: Split this image in 2 parts, one for each gel. Make sure the band are horizontal and export the 2 new images in the same file format as the original. You can adjust brightness and contrast to make all the band more visible.
 
 Exercise 2
-Source file: Image 2
+Source file: [Image 2](../data/Exercise2.jpg)
 Task: Rotate this image 45 degrees and crop an image of 500x500 pixels out of the original. Make sure the printing resolution is set to 300 ppi and export this image as a PNG file. Adjust brightness and contrast to make this image look better.
 
 Exercise 3
