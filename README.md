@@ -29,11 +29,11 @@ edition: 4th
 
 -->
 
-# Course Title
+# Initiation GIMP and Inkscape
 
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
-This is the @edition edition of this workshop, jointly organised by the VIB and ELIXIR Belgium.
+This is the @edition edition of this workshop, organised by the VIB.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -50,28 +50,20 @@ This is the @edition edition of this workshop, jointly organised by the VIB and 
 
 ## General context
 
-Welcome to our {{workshop_name}} workshop! We are very happy to have you here.
-
-This is the {{workshop_edition}} edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
-
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
+This course is dedicated to introduce you to two freely available image manipulation tools that will help you create illustrations and treat your pictures.
 
 The **presentation** which goes alongside this material can be found [here](link).
 
 
 
 >
-> <i class="fa fa-user"></i> **Target Audience:** Researchers, trainers, training providers
+> <i class="fa fa-user"></i> **Target Audience:** Anyone interested in wrking with images, from admin, support to scientists
 >
 >> <svg xmlns="http://www.w3.org/2000/svg" height="14" width="16" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M384 64c0-17.7 14.3-32 32-32H544c17.7 0 32 14.3 32 32s-14.3 32-32 32H448v96c0 17.7-14.3 32-32 32H320v96c0 17.7-14.3 32-32 32H192v96c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32h96V320c0-17.7 14.3-32 32-32h96V192c0-17.7 14.3-32 32-32h96V64z"/></svg> **Level:** Beginner  
 >
 
 <i class="fa fa-arrow-left"></i> **Prerequisites**  
-To be able to follow this course, learners should have knowledge in:
-
-1. Basic knowlegde of HTML  
-2. Basic knowledge of ...
-3. Being comfortable working with ....  
+None.
 
 <i class="fa fa-bookmark"></i> **Description**  
 This course consist of .....
@@ -93,9 +85,9 @@ This course consist of .....
 >
 > Check more about [Bloom's taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) to categorize the levels in educational goals
 
-<i class="fa fa-hourglass"></i> **Time estimation**: 120 minutes
+<i class="fa fa-hourglass"></i> **Time estimation**: 8h
 
-<i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
+<i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](./Chapters/GetReady4training.md) section.
 
 ### Chapters List
 
