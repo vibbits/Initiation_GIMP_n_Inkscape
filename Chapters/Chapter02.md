@@ -119,5 +119,5 @@ Image infographic 2: [Image 2](../data/Inkscape4.png)
 Image infographic 3: [Image 3](../data/Inkscape5.png)
 
 Extras
-Inkscape Beginner tutorials on YouTube: Nick Saporito Inkscape tutorial 1
-Inkscape Intermediate/Advanced tutorials on YouTube: Nick Saporito Inkscape tutorial 2
+Inkscape Beginner tutorials on YouTube: [Nick Saporito Inkscape tutorial 1](https://www.youtube.com/playlist?list=PLynG8gQD-n8BMplEVZVsoYlaRgqzG1qc4)
+Inkscape Intermediate/Advanced tutorials on YouTube: [Nick Saporito Inkscape tutorial 2](https://www.youtube.com/playlist?list=PLynG8gQD-n8AFcLFAkvqJYnQUiBweRh1y)
