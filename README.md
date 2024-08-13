@@ -1,6 +1,6 @@
 <!--
 
-author:   name last_name
+author:   Christof De Bo
 email:    training@vib.de
 version:  1.0.0
 language: en
@@ -24,8 +24,8 @@ link:     https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@300&disp
 link:     https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
 link:     https://raw.githubusercontent.com/vibbits/material-liascript/master/vib-styles.css
 
-tutor: Neuropixels
-edition: 1st 
+tutor: GIMP & Inkscape
+edition: 4th 
 
 -->
 
@@ -34,10 +34,6 @@ edition: 1st
 Hello and welcome to our @tutor workshop! We are very happy to have you here.
 
 This is the @edition edition of this workshop, jointly organised by the VIB and ELIXIR Belgium.
-
-<img src="./images/globes/41920.jpg" width="350" align="center"/>
-
-Example image to ilustrate the front page of the material. This image was [Designed by macrovector / Freepik](https://www.freepik.com/free-vector/globe-earth-world-icons-vector-white-black_10601425.htm#fromView=author&page=1&position=27&uuid=726a85e1-abc9-4f55-a242-bdb7cd5733f1)
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript.
 > It is a distributed way of creating and sharing educational content hosted on github.
