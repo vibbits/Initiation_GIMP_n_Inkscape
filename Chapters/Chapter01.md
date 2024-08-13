@@ -46,7 +46,7 @@ Topics in this introduction:
 - VIB guidelines on image editing
 
 
-### GIMP
+## GIMP
 
 GIMP is short for GNU Image Manipulation Program. It is a free and Open-source, cross-platform image editor available for GNU/Linux, MacOS and Windows operating systems. During this training we will use GIMP 2.10 on Windows. To download the most recent version for your OS, browse to the [GIMP Download page](https://www.gimp.org/downloads/). GIMP has an online manual in multiple languages: [GIMP Manual page](https://www.gimp.org/docs/).
 A video tutorial on all GIMP tools can be found on YouTube: [GIMP 2.10 Basics: COMPLETE Overview for Beginners by Davies Media Design
@@ -141,4 +141,3 @@ Task: Download an image from your most favorite brand and remove the white (or o
 Extras
 GIMP tutorial on YouTube: [Nick Saporito GIMP Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz)
 
-### Inkscape
