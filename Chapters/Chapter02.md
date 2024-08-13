@@ -114,9 +114,9 @@ Image 2 SVG: Image 2 SVG Format
 Task: Reproduce one of the sets of this image. Afterwards, reproduce the others using the first one.
 
 Exercise 3
-Image infographic 1: Image 1
-Image infographic 2: Image 2
-Image infographic 3: Image 3
+Image infographic 1: [Image 1](../data/Inkscape3.png)
+Image infographic 2: [Image 2](../data/Inkscape4.png)
+Image infographic 3: [Image 3](../data/Inkscape5.png)
 
 Extras
 Inkscape Beginner tutorials on YouTube: Nick Saporito Inkscape tutorial 1
