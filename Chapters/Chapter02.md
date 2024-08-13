@@ -104,12 +104,12 @@ To make a diagram with objects (circles, rectangles, stars, etc.) connected by l
 #### Exercises
 
 Exercise 1
-Image 1 PNG: Image 1
+Image 1 PNG: [Image 1](../data/Inkscape1.png)
 Image 1 SVG: Image 1 SVG Format
 Task: Reproduce the top strand. Afterwards, reproduce the bottom strand using the first one.
 
 Exercise 2
-Image 2 PNG: Image 2
+Image 2 PNG: [Image 2](../data/Inkscape2.png)
 Image 2 SVG: Image 2 SVG Format
 Task: Reproduce one of the sets of this image. Afterwards, reproduce the others using the first one.
 
