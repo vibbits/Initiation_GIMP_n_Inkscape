@@ -131,7 +131,7 @@ Source file: [Image 3](../data/Exercise3.jpg)
 Task: Cut this image in 4 equal parts. Know that the printing width is 150 mm and the journal demands a minimum op 300 ppi for all 4 images. Also export each of them in a different file formats without losing image quality. Adjust brightness and contrast to your own opinion.
 
 Exercise 4:
-Source file: Image 4
+Source file: [Image 4](../data/Exercise4.jpg)
 Task: Adjust brightness and contract of this images and export it in a way to make the file as small as possible. Use preferably lossless compression (try lossy compression to compare file size), there is no restriction on file formats. Be sure your image is exported with at least 300 ppi.
 
 Exercise 5:
