@@ -139,6 +139,6 @@ Source file: select from the internet
 Task: Download an image from your most favorite brand and remove the white (or other color) background. Export this new image in a format that support transparent pixels.
 
 Extras
-GIMP tutorial on YouTube: Nick Saporito GIMP Tutorials
+GIMP tutorial on YouTube: [Nick Saporito GIMP Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz)
 
 ### Inkscape
