@@ -127,7 +127,7 @@ Source file: [Image 2](../data/Exercise2.jpg)
 Task: Rotate this image 45 degrees and crop an image of 500x500 pixels out of the original. Make sure the printing resolution is set to 300 ppi and export this image as a PNG file. Adjust brightness and contrast to make this image look better.
 
 Exercise 3
-Source file: Image 3
+Source file: [Image 3](../data/Exercise3.jpg)
 Task: Cut this image in 4 equal parts. Know that the printing width is 150 mm and the journal demands a minimum op 300 ppi for all 4 images. Also export each of them in a different file formats without losing image quality. Adjust brightness and contrast to your own opinion.
 
 Exercise 4:
