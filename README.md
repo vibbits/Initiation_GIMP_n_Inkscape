@@ -141,11 +141,17 @@ Please cite as:
 
 </section>
 
+
 ## References
 
 Here are some great tips for learning and to get inspired for writing your own pipelines:
 
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
+
+## Next chapter
+
+[Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) 
+------------------------------------
 
 --------------------------------------------
 *About ELIXIR Training Platform*
@@ -174,7 +180,4 @@ Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
-### Next chapter
 
-[Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) 
-------------------------------------
