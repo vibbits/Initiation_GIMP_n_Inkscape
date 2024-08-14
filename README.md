@@ -95,9 +95,10 @@ This course consist of .....
 
 | Chapter | Title                                               |
 | :---- | :------------------------------------------------     |
-| 0     | [Get ready for the course, instalation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) |
-| 1     | [GIMP](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter01.md#1)                                                          |
-| 2     | [Inkscape](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#1)                                                      |
+| 0     | [About the course]((https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/README.md#1)|
+| 1     | [Get ready for the course, instalation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) |
+| 2     | [GIMP](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter01.md#1)                                                          |
+| 3     | [Inkscape](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#1)                                                      |
 
 
 <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
