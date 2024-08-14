@@ -146,10 +146,6 @@ Here are some great tips for learning and to get inspired for writing your own p
 
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6478ea902c7b8a3f22986e67cb1fb6f3ddd637a1
 --------------------------------------------
 *About ELIXIR Training Platform*
 
