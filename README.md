@@ -93,34 +93,28 @@ This course consist of .....
 
 | Chapter | Title                                               |
 | :---- | :------------------------------------------------     |
-| 0     | Get ready for the course, instalation and pre-reading |
-| 1     | Chapter title                                         |
-| 2     | Chapter title                                         |
-| 3     | Chapter title                                         |
+| 0     | [Get ready for the course, instalation and pre-reading](./Chapters/GetReady4training.md) |
+| 1     | [GIMP](./Chapters/Chapter01.md)                                                          |
+| 2     | [Inkscape](./Chapters/Chapter02.md)                                                      |
 
 
 <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 
-1. [Exercises and solutions](https://github.com/vibbits/nextflow-workshop)
-2. [Slides]()  
+1. [Exercises and solutions](link)
+2. [Slides](./Presentations/GIMP_Inkscape_2024.pdf)
+3. [VIB guidelines](./Presentations/VIB-guideline-on-image-manipulation.pdf)  
 
 <i class="fa fa-life-ring"></i> **Acknowledgement**:
 
-* [ELIXIR Belgium](https://www.elixir-belgium.org/)
 * [VIB Technologies](https://www.vib.be/)
-* [BioLizard](https://www.lizard.bio)
-
-<i class="fa fa-money-bill"></i> **Funding:** This project has received funding from the ELIXIR Programme 2022-2023.
 
 ## Authors
 
-@[orcid(Cagatay Aydin)](https://orcid.org/0000-0002-7216-1079),
+Christof De Bo - [OrcID](link)
 
 ## Contributors
 
-@[orcid(Asli Ayaz)](https://orcid.org/0000-0002-6276-2516)
-@[orcid(Kacper Kondrakiewicz)](https://orcid.org/0000-0003-2600-1418)
-@[orcid(Asli Ayaz)](https://orcid.org/0000-0003-4477-6620)
+Name - [OrcID](link)
 
 <i class="fa fa-anchor"></i> **PURL**:  
 
@@ -149,21 +143,7 @@ Please cite as:
 Here are some great tips for learning and to get inspired for writing your own pipelines:
 
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
-- Reach out to the community on Slack ([link](https://www.nextflow.io/slack-invite.html))
-- Curated collection of patterns ([link](https://github.com/nextflow-io/patterns))
-- Workshop focused on DSL2 developed by CRG Bioinformatics Core ([link](https://github.com/biocorecrg/ELIXIR_containers_nextflow))
-- Tutorial exercises (DSL1) developed by Seqera ([link](https://github.com/seqeralabs/nextflow-tutorial))
-- Curated ready-to-use analysis pipelines by NF-core ([link](https://nf-co.re/))
-- Model example pipeline on Variant Calling Analysis with NGS RNA-Seq data developed by CRG ([link](https://github.com/CRG-CNAG/CalliNGS-NF))
-- Tutorial by Andrew Severin ([link](https://bioinformaticsworkbook.org/dataAnalysis/nextflow/02_creatingAworkflow.html#gsc.tab=0))
-- Nextflow community basic training ([link](https://training.nextflow.io/basic_training/))
 
-
-# Chapters
-
-## Chapter overview
-
-## [Chapter 01](link)
 
 --------------------------------------------
 
