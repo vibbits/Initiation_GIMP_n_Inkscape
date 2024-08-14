@@ -40,7 +40,9 @@ This is the @edition edition of this workshop, organised by the VIB.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/README.md#1)
+> [<img src="./images/logos/course_liascript.svg" width="150"/>](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/README.md#1) 
+> 
+
 
 
 ## Lesson overview
@@ -144,9 +146,11 @@ Here are some great tips for learning and to get inspired for writing your own p
 
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> 6478ea902c7b8a3f22986e67cb1fb6f3ddd637a1
 --------------------------------------------
-
 *About ELIXIR Training Platform*
 
 The ELIXIR Training Platform was established to develop a training community that spans all ELIXIR member states (see the list of Training Coordinators). It aims to strengthen national training programmes, grow bioinformatics training capacity and competence across Europe, and empower researchers to use ELIXIR's services and tools.
@@ -172,6 +176,7 @@ Authors: @[orcid(Alexander Botzki)](https://orcid.org/0000-0001-6691-4233), @[or
 Technical Editors: Alexander Botzki
 
 License: [![CC BY SA](img/picture003.jpg)](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
 
 [Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) 
 ------------------------------------
