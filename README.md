@@ -40,7 +40,7 @@ This is the @edition edition of this workshop, organised by the VIB.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/training_material_template/main/README.md#2)
+> [![LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/README.md#1)
 
 
 ## Lesson overview
@@ -144,6 +144,7 @@ Here are some great tips for learning and to get inspired for writing your own p
 
 - Nextflow's official documentation ([link](https://www.nextflow.io/docs/latest/index.html))
 
+[Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) 
 
 --------------------------------------------
 
