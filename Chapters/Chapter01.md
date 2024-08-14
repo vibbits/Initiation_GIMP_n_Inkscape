@@ -141,4 +141,4 @@ Task: Download an image from your most favorite brand and remove the white (or o
 Extras
 GIMP tutorial on YouTube: [Nick Saporito GIMP Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8Dl23X0o1HFu_5PmBl79niz)
 
-[Go to next chapter ->](./Chapters/Chapter02.md) 
+[Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#1) 

@@ -93,9 +93,9 @@ This course consist of .....
 
 | Chapter | Title                                               |
 | :---- | :------------------------------------------------     |
-| 0     | [Get ready for the course, instalation and pre-reading](./Chapters/GetReady4training.md) |
-| 1     | [GIMP](./Chapters/Chapter01.md)                                                          |
-| 2     | [Inkscape](./Chapters/Chapter02.md)                                                      |
+| 0     | [Get ready for the course, instalation and pre-reading](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/GetReady4training.md#1) |
+| 1     | [GIMP](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter01.md#1)                                                          |
+| 2     | [Inkscape](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter02.md#1)                                                      |
 
 
 <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:

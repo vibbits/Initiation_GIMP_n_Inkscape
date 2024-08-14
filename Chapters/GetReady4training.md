@@ -112,4 +112,4 @@ You are free to connect to the cluster however you want, but the above 2 methods
 - Clone this repository into the folder: `git clone git@github.com:VIBbits/nextflow-workshop.git`
 - Load the nextflow module: `module load Nextflow/23.10.0`
 
-[Go to next chapter ->](./Chapters/Chapter01.md)
+[Go to next chapter ->](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/Initiation_GIMP_n_Inkscape/main/Chapters/Chapter01.md#1)
